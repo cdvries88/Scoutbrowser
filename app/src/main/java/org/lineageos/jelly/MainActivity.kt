@@ -60,8 +60,6 @@ import com.google.android.material.appbar.AppBarLayout
 import com.google.android.material.appbar.MaterialToolbar
 import com.google.android.material.bottomsheet.BottomSheetDialog
 import com.google.android.material.snackbar.Snackbar
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.launch
 import org.lineageos.jelly.favorite.FavoriteActivity
@@ -146,7 +144,6 @@ class MainActivity : WebViewExtActivity(), SharedPreferences.OnSharedPreferenceC
     private var incognito = false
     private var customView: View? = null
     private var fullScreenCallback: CustomViewCallback? = null
-    private val uiScope = CoroutineScope(Dispatchers.Main)
     private lateinit var menuDialog: MenuDialog
 
     private val sharedPreferencesExt by lazy { SharedPreferencesExt(this) }

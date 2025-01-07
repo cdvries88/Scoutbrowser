@@ -21,7 +21,6 @@ import androidx.appcompat.widget.Toolbar
 import androidx.preference.ListPreference
 import androidx.preference.Preference
 import androidx.preference.PreferenceFragmentCompat
-import androidx.preference.PreferenceManager
 import androidx.preference.SwitchPreference
 import com.google.android.material.checkbox.MaterialCheckBox
 import org.lineageos.jelly.utils.SharedPreferencesExt
