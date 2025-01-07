@@ -59,21 +59,17 @@ class WebViewExt @JvmOverloads constructor(
         settings.displayZoomControls = false
         settings.domStorageEnabled = !isIncognito
         setOnLongClickListener(object : OnLongClickListener {
-            var shouldAllowDownload = false
             override fun onLongClick(v: View): Boolean {
                 val result = hitTestResult
                 result.extra?.let {
                     when (result.type) {
                         HitTestResult.IMAGE_TYPE, HitTestResult.SRC_IMAGE_ANCHOR_TYPE -> {
-                            shouldAllowDownload = true
-                            activity.showSheetMenu(it, shouldAllowDownload)
-                            shouldAllowDownload = false
+                            activity.showSheetMenu(it, true)
                             return true
                         }
 
                         HitTestResult.SRC_ANCHOR_TYPE -> {
-                            activity.showSheetMenu(it, shouldAllowDownload)
-                            shouldAllowDownload = false
+                            activity.showSheetMenu(it, false)
                             return true
                         }
 
