@@ -57,8 +57,8 @@ class HistoryActivity : AppCompatActivity(R.layout.activity_history) {
         }
     }
 
-    override fun onCreate(savedInstance: Bundle?) {
-        super.onCreate(savedInstance)
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
 
         setSupportActionBar(toolbar)
         supportActionBar?.apply {

@@ -45,8 +45,8 @@ class FavoriteActivity : AppCompatActivity(R.layout.activity_favorites) {
 
     private val adapter by lazy { FavoriteAdapter() }
 
-    override fun onCreate(savedInstance: Bundle?) {
-        super.onCreate(savedInstance)
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
 
         setSupportActionBar(toolbar)
         supportActionBar?.apply {
