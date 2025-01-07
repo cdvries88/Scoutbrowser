@@ -458,7 +458,7 @@ class MainActivity : WebViewExtActivity(), SharedPreferences.OnSharedPreferenceC
         // Let this downloaded file be scanned by MediaScanner - so that it can
         // show up in Gallery app, for example.
         if (Build.VERSION.SDK_INT < Build.VERSION_CODES.Q) {
-            @Suppress("DEPRECATION")
+            @Suppress("Deprecation")
             request.allowScanningByMediaScanner()
         }
         request.setNotificationVisibility(
@@ -633,7 +633,7 @@ class MainActivity : WebViewExtActivity(), SharedPreferences.OnSharedPreferenceC
                         WindowInsetsController.BEHAVIOR_SHOW_TRANSIENT_BARS_BY_SWIPE
                 }
             } else {
-                @Suppress("DEPRECATION")
+                @Suppress("Deprecation")
                 decorView.systemUiVisibility = (
                         View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY
                                 or View.SYSTEM_UI_FLAG_FULLSCREEN
@@ -644,7 +644,7 @@ class MainActivity : WebViewExtActivity(), SharedPreferences.OnSharedPreferenceC
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
                 window.insetsController?.show(WindowInsets.Type.systemBars())
             } else {
-                @Suppress("DEPRECATION")
+                @Suppress("Deprecation")
                 decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_VISIBLE
             }
         }
