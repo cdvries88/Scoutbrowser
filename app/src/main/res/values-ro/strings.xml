@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">Șterge căutarea</string>
     <string name="url_bar_search_previous">Anterior</string>
     <string name="url_bar_search_next">Înainte</string>
+    <string name="url_bar_auto_complete_hint">Căutaţi sau introduceţi URL-ul</string>
     <string name="menu_go_back">Înapoi</string>
     <string name="menu_go_forward">Înainte</string>
     <string name="menu_refresh">Reîmprospătare pagină</string>
@@ -35,12 +36,16 @@
     <string name="settings_title">Setări</string>
     <string name="pref_search_engine">Motor de căutare</string>
     <string name="pref_start_page">Pagina principală</string>
+    <string name="pref_start_page_autoload_enabled">Activat</string>
+    <string name="pref_start_page_autoload_disabled">Dezactivat</string>
     <string name="pref_start_page_dialog_title">Selectați pagina principală</string>
     <string name="pref_start_page_dialog_message">Scrieți URL-ul paginii de pornire</string>
     <string name="pref_start_page_dialog_reset">Resetaţi</string>
     <string name="pref_privacy_security">Confidențialitate &amp; securitate</string>
     <string name="pref_looklock_title">LookLock</string>
     <string name="pref_looklock_summary">Previne citirea conținutului Browser-ului de către alte aplicații</string>
+    <string name="pref_dynamic_popup_title">Popup-uri dinamice</string>
+    <string name="pref_dynamic_popup_summary">Permite JavaScript să deschidă popup-uri fără interacțiunea utilizatorului</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">Activați JavaScript</string>
     <string name="pref_location_title">Locație</string>
@@ -81,6 +86,7 @@
     <string name="auth_dialog_detail">%1$s necesită un nume de utilizator şi o parolă.</string>
     <string name="auth_dialog_login">Conectare</string>
     <string name="shortcut_new_incognito_tab">Filă nouă incognito</string>
+    <string name="suggestions_provider_history">Istoric</string>
     <string name="suggestions_provider_none">Niciunul</string>
     <string name="search_bar_hint">Căutați</string>
     <string name="ssl_cert_dialog_title">Detalii Certificat SSL</string>

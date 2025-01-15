@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">Limpar busca</string>
     <string name="url_bar_search_previous">Anterior</string>
     <string name="url_bar_search_next">Próximo</string>
+    <string name="url_bar_auto_complete_hint">Pesquise ou digite uma URL</string>
     <string name="menu_go_back">Voltar</string>
     <string name="menu_go_forward">Avançar</string>
     <string name="menu_refresh">Atualizar página</string>
@@ -35,12 +36,16 @@
     <string name="settings_title">Configurações</string>
     <string name="pref_search_engine">Mecanismo de pesquisa</string>
     <string name="pref_start_page">Página inicial</string>
+    <string name="pref_start_page_autoload_enabled">Ativado</string>
+    <string name="pref_start_page_autoload_disabled">Desativado</string>
     <string name="pref_start_page_dialog_title">Selecionar página inicial</string>
     <string name="pref_start_page_dialog_message">Digite o URL da página inicial</string>
     <string name="pref_start_page_dialog_reset">Redefinir</string>
     <string name="pref_privacy_security">Privacidade e segurança</string>
     <string name="pref_looklock_title">LookLock</string>
     <string name="pref_looklock_summary">Impedir que outros apps leiam o conteúdo do navegador</string>
+    <string name="pref_dynamic_popup_title">Pop-ups dinâmicos</string>
+    <string name="pref_dynamic_popup_summary">Permitir que código JavaScript abra pop-ups sem interação do usuário</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">Ativar JavaScript</string>
     <string name="pref_location_title">Localização</string>
@@ -81,6 +86,7 @@
     <string name="auth_dialog_detail">%1$s exige um nome de usuário e senha.</string>
     <string name="auth_dialog_login">Iniciar sessão</string>
     <string name="shortcut_new_incognito_tab">Nova aba anônima</string>
+    <string name="suggestions_provider_history">Histórico</string>
     <string name="suggestions_provider_none">Nenhum</string>
     <string name="search_bar_hint">Pesquisar</string>
     <string name="ssl_cert_dialog_title">Detalhes do Certificado SSL</string>

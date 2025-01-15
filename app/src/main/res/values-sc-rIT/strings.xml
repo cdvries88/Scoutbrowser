@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -22,6 +22,7 @@
     <string name="favorite_edit_title">Tìtulu</string>
     <string name="favorite_edit_positive">Modìfica</string>
     <string name="favorite_edit_delete">Iscantzella</string>
+    <string name="suggestions_provider_history">Cronologia</string>
     <string name="suggestions_provider_none">Nudda</string>
     <string name="search_bar_hint">Chirca</string>
     <string name="ssl_cert_dialog_trust">Cunfia</string>

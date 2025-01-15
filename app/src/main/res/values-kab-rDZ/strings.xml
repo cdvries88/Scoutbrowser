@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -65,6 +65,7 @@
     <string name="auth_dialog_detail">%1$s illaqas isem n useqdac ak wawal uffir.</string>
     <string name="auth_dialog_login">Qqen</string>
     <string name="shortcut_new_incognito_tab">Iccer abnabak amaynut</string>
+    <string name="suggestions_provider_history">Amazray</string>
     <string name="suggestions_provider_none">Ula yiwen</string>
     <string name="search_bar_hint">Nadi</string>
     <string name="ssl_cert_dialog_domain">Taɣult</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -63,6 +63,7 @@
     <string name="auth_dialog_detail">%1$s ต้องการใช้ชื่อผู้ใช้และรหัสผ่าน</string>
     <string name="auth_dialog_login">เข้าสู่ระบบ</string>
     <string name="shortcut_new_incognito_tab">เปิดแท็บใหม่ที่ไม่ระบุตัวตน</string>
+    <string name="suggestions_provider_history">ประวัติการเข้าชม</string>
     <string name="suggestions_provider_none">ไม่มี</string>
     <string name="search_bar_hint">ค้นหา</string>
     <string name="ssl_cert_dialog_title">รายละเอียดใบรับรอง SSL</string>

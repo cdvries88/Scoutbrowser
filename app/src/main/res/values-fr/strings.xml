@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -81,6 +81,7 @@
     <string name="auth_dialog_detail">%1$s requiert un identifiant et un mot de passe.</string>
     <string name="auth_dialog_login">Se connecter</string>
     <string name="shortcut_new_incognito_tab">Nouvel onglet de navigation privée</string>
+    <string name="suggestions_provider_history">Historique</string>
     <string name="suggestions_provider_none">Aucun</string>
     <string name="search_bar_hint">Rechercher</string>
     <string name="ssl_cert_dialog_title">Détails du certificat SSL</string>

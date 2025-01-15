@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -41,6 +41,8 @@
     <string name="pref_privacy_security">Privatësia &amp; siguria</string>
     <string name="pref_looklock_title">Mbyllje me shikim</string>
     <string name="pref_looklock_summary">Pengo app e tjera të lexojnë të dhënat e Shfletuesit</string>
+    <string name="pref_dynamic_popup_title">Shfaqje dinamike</string>
+    <string name="pref_dynamic_popup_summary">Lejo që JavaScript të hapë dritare kërcyese pa ndërveprim të përdoruesit</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">Aktivizo JavaScript</string>
     <string name="pref_location_title">Vendndodhja</string>
@@ -81,6 +83,7 @@
     <string name="auth_dialog_detail">%1$s kërkon një perdorues dhe fjalëkalim.</string>
     <string name="auth_dialog_login">Hyni</string>
     <string name="shortcut_new_incognito_tab">Tab të rri të fshehtë</string>
+    <string name="suggestions_provider_history">Historiku</string>
     <string name="suggestions_provider_none">Asnjë</string>
     <string name="search_bar_hint">Kërko</string>
     <string name="ssl_cert_dialog_title">Detaje të çertifikatës SSL</string>

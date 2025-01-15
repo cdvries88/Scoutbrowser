@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">Axtarışı təmizlə</string>
     <string name="url_bar_search_previous">Əvvəlki</string>
     <string name="url_bar_search_next">Növbəti</string>
+    <string name="url_bar_auto_complete_hint">Axtar və ya URL-ni yaz</string>
     <string name="menu_go_back">Geri qayıt</string>
     <string name="menu_go_forward">İrəli get</string>
     <string name="menu_refresh">Səhifəni təzələ</string>
@@ -35,12 +36,16 @@
     <string name="settings_title">Ayarlar</string>
     <string name="pref_search_engine">Axtarış motoru</string>
     <string name="pref_start_page">Əsas səhifə</string>
+    <string name="pref_start_page_autoload_enabled">Fəaldır</string>
+    <string name="pref_start_page_autoload_disabled">Sıradan çıxarılıb</string>
     <string name="pref_start_page_dialog_title">Əsas səhifəni seç</string>
     <string name="pref_start_page_dialog_message">Əsas səhifə URL-sini yaz</string>
     <string name="pref_start_page_dialog_reset">Sıfırla</string>
     <string name="pref_privacy_security">Gizlilik &amp; güvənlik</string>
     <string name="pref_looklock_title">LookLock</string>
     <string name="pref_looklock_summary">Digər tətbiqlərin Brauzer məzmununu oxumasını əngəlləyin</string>
+    <string name="pref_dynamic_popup_title">Dinamik açılan pəncərələr</string>
+    <string name="pref_dynamic_popup_summary">JavaScript-in istifadəçilə qarşılıqlı əlaqə olmadan açılan pəncərələri açmasına icazə ver</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">JavaScript-i fəallaşdır</string>
     <string name="pref_location_title">Yer</string>
@@ -81,6 +86,7 @@
     <string name="auth_dialog_detail">%1$s, bir istifadəçi adı və parol tələb edir.</string>
     <string name="auth_dialog_login">Giriş et</string>
     <string name="shortcut_new_incognito_tab">Yeni gizli vərəq</string>
+    <string name="suggestions_provider_history">Tarixçə</string>
     <string name="suggestions_provider_none">Heç biri</string>
     <string name="search_bar_hint">Axtar</string>
     <string name="ssl_cert_dialog_title">SSL Sertifikat Detalları</string>

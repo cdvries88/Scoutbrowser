@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">Počisti iskanje</string>
     <string name="url_bar_search_previous">Prejšnji</string>
     <string name="url_bar_search_next">Naslednji</string>
+    <string name="url_bar_auto_complete_hint">Iščite ali vtipkajte URL</string>
     <string name="menu_go_back">Pojdi nazaj</string>
     <string name="menu_go_forward">Pojdi naprej</string>
     <string name="menu_refresh">Osveži stran</string>
@@ -35,12 +36,16 @@
     <string name="settings_title">Nastavitve</string>
     <string name="pref_search_engine">Iskalnik</string>
     <string name="pref_start_page">Domača stran</string>
+    <string name="pref_start_page_autoload_enabled">Omogočeno</string>
+    <string name="pref_start_page_autoload_disabled">Onemogočeno</string>
     <string name="pref_start_page_dialog_title">Izberite domačo stran</string>
     <string name="pref_start_page_dialog_message">Napišite URL domače strani</string>
     <string name="pref_start_page_dialog_reset">Ponastavi</string>
     <string name="pref_privacy_security">Zasebnost in varnost</string>
     <string name="pref_looklock_title">LookLock</string>
     <string name="pref_looklock_summary">Prepreči ostalim aplikacijam branje vsebine Brskalnika</string>
+    <string name="pref_dynamic_popup_title">Dinamična pojavna okna</string>
+    <string name="pref_dynamic_popup_summary">Dovoli JavaScriptu, da odpre pojavna okna brez vpliva uporabnika</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">Omogoči JavaScript</string>
     <string name="pref_location_title">Lokacija</string>
@@ -81,6 +86,7 @@
     <string name="auth_dialog_detail">%1$s zahteva uporabniško ime in geslo.</string>
     <string name="auth_dialog_login">Prijava</string>
     <string name="shortcut_new_incognito_tab">Nov zav. brez belež. zgod.</string>
+    <string name="suggestions_provider_history">Zgodovina</string>
     <string name="suggestions_provider_none">Brez</string>
     <string name="search_bar_hint">Iskanje</string>
     <string name="ssl_cert_dialog_title">Podrobnosti potrdila SSL</string>

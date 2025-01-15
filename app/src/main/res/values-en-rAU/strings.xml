@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">Clear search</string>
     <string name="url_bar_search_previous">Previous</string>
     <string name="url_bar_search_next">Next</string>
+    <string name="url_bar_auto_complete_hint">Search or type URL</string>
     <string name="menu_go_back">Go back</string>
     <string name="menu_go_forward">Go forward</string>
     <string name="menu_refresh">Refresh page</string>
@@ -35,12 +36,16 @@
     <string name="settings_title">Settings</string>
     <string name="pref_search_engine">Search engine</string>
     <string name="pref_start_page">Home page</string>
+    <string name="pref_start_page_autoload_enabled">Enabled</string>
+    <string name="pref_start_page_autoload_disabled">Disabled</string>
     <string name="pref_start_page_dialog_title">Select home page</string>
     <string name="pref_start_page_dialog_message">Write the home page URL</string>
     <string name="pref_start_page_dialog_reset">Reset</string>
     <string name="pref_privacy_security">Privacy &amp; security</string>
     <string name="pref_looklock_title">LookLock</string>
     <string name="pref_looklock_summary">Prevent other apps from reading Browser\'s content</string>
+    <string name="pref_dynamic_popup_title">Dynamic pop-ups</string>
+    <string name="pref_dynamic_popup_summary">Allow JavaScript to open pop-ups without user interaction</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">Enable JavaScript</string>
     <string name="pref_location_title">Location</string>
@@ -81,6 +86,7 @@
     <string name="auth_dialog_detail">%1$s requires a username and password.</string>
     <string name="auth_dialog_login">Log in</string>
     <string name="shortcut_new_incognito_tab">New incognito tab</string>
+    <string name="suggestions_provider_history">History</string>
     <string name="suggestions_provider_none">None</string>
     <string name="search_bar_hint">Search</string>
     <string name="ssl_cert_dialog_title">SSL Certificate Details</string>

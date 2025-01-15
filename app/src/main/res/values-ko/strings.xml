@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">검색 창 지우기</string>
     <string name="url_bar_search_previous">이전</string>
     <string name="url_bar_search_next">다음</string>
+    <string name="url_bar_auto_complete_hint">검색어 또는 URL 입력</string>
     <string name="menu_go_back">뒤로 이동</string>
     <string name="menu_go_forward">앞으로 이동</string>
     <string name="menu_refresh">페이지 새로고침</string>
@@ -35,12 +36,16 @@
     <string name="settings_title">설정</string>
     <string name="pref_search_engine">검색 엔진</string>
     <string name="pref_start_page">홈페이지</string>
+    <string name="pref_start_page_autoload_enabled">사용</string>
+    <string name="pref_start_page_autoload_disabled">사용 안 함</string>
     <string name="pref_start_page_dialog_title">홈페이지 선택</string>
     <string name="pref_start_page_dialog_message">홈페이지의 URL을 입력하세요.</string>
     <string name="pref_start_page_dialog_reset">초기화</string>
     <string name="pref_privacy_security">개인정보 보호 및 보안</string>
     <string name="pref_looklock_title">LookLock</string>
     <string name="pref_looklock_summary">다른 앱에서 브라우저의 내용을 읽을 수 없게 합니다.</string>
+    <string name="pref_dynamic_popup_title">다이나믹 팝업</string>
+    <string name="pref_dynamic_popup_summary">사용자의 허용 없이 JavaScript로 팝업을 열 수 있게 합니다.</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">JavaScript 사용</string>
     <string name="pref_location_title">위치</string>
@@ -81,6 +86,7 @@
     <string name="auth_dialog_detail">%1$s에는 사용자 이름 및 암호가 필요합니다.</string>
     <string name="auth_dialog_login">로그인</string>
     <string name="shortcut_new_incognito_tab">새 시크릿 탭</string>
+    <string name="suggestions_provider_history">방문 기록</string>
     <string name="suggestions_provider_none">없음</string>
     <string name="search_bar_hint">검색</string>
     <string name="ssl_cert_dialog_title">SSL 인증서 세부 정보</string>

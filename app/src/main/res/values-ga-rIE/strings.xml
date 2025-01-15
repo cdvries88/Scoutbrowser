@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">Glan cuardach</string>
     <string name="url_bar_search_previous">Roimhe Seo</string>
     <string name="url_bar_search_next">Ar aghaidh</string>
+    <string name="url_bar_auto_complete_hint">Cuardaigh nó clóscríobh URL</string>
     <string name="menu_go_back">Dul ar ais</string>
     <string name="menu_go_forward">Dul ar aghaidh</string>
     <string name="menu_refresh">Athnuaigh leathanach</string>
@@ -35,12 +36,16 @@
     <string name="settings_title">Socruithe</string>
     <string name="pref_search_engine">Inneall cuardaigh</string>
     <string name="pref_start_page">Leathanach baile</string>
+    <string name="pref_start_page_autoload_enabled">Cumasaithe</string>
+    <string name="pref_start_page_autoload_disabled">Díchumasaithe</string>
     <string name="pref_start_page_dialog_title">Roghnaigh leathanach baile</string>
     <string name="pref_start_page_dialog_message">Scríobh URL an leathanach baile</string>
     <string name="pref_start_page_dialog_reset">Athshocraigh</string>
     <string name="pref_privacy_security">Príobháideacht &amp; slándála</string>
     <string name="pref_looklock_title">LookLock</string>
     <string name="pref_looklock_summary">Cosc a chur ar aipeanna eile ábhar an Bhrabhsálaí a léamh</string>
+    <string name="pref_dynamic_popup_title">Popups Dinimiciúla</string>
+    <string name="pref_dynamic_popup_summary">Lig do JavaScript preabfhuinneoga a oscailt gan idirghníomhaíocht ón úsáideoir</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">Cumasaigh JavaScript</string>
     <string name="pref_location_title">Suíomh</string>
@@ -81,6 +86,7 @@
     <string name="auth_dialog_detail">Tá ainm úsáideora agus pasfhocal ag teastáil ó %1$s.</string>
     <string name="auth_dialog_login">Logáil isteach</string>
     <string name="shortcut_new_incognito_tab">Cluaisín nua incognito</string>
+    <string name="suggestions_provider_history">Stair</string>
     <string name="suggestions_provider_none">Dada</string>
     <string name="search_bar_hint">Cuardach</string>
     <string name="ssl_cert_dialog_title">Sonraí Teastais SSL</string>

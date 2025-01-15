@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -45,6 +45,7 @@
     <string name="auth_dialog_title">ದೃಢೀಕರಣ ಅಗತ್ಯವಿದೆ</string>
     <string name="auth_dialog_detail">ಬಳಕೆದಾರನಾಮ ಮತ್ತು ಪ್ರವೇಶಪದ %1$sಗೆ ಅಗತ್ಯವಿದೆ.</string>
     <string name="auth_dialog_login">ಸಂಪರ್ಕ ಪಡೆ</string>
+    <string name="suggestions_provider_history">ಇತಿಹಾಸ</string>
     <string name="ssl_cert_dialog_domain">ಪ್ರಾಂತ</string>
     <string name="ssl_cert_dialog_issued_to">ಪಡೆದವರು</string>
     <string name="ssl_cert_dialog_issued_by">ಕೊಟ್ಟವರು</string>

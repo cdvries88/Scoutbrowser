@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -57,6 +57,7 @@
     <string name="auth_dialog_password">Пароль:</string>
     <string name="auth_dialog_detail">%1$s патрабуе імя карыстальніка і пароль.</string>
     <string name="auth_dialog_login">Увайсці</string>
+    <string name="suggestions_provider_history">Гісторыя</string>
     <string name="search_bar_hint">Пошук</string>
     <string name="ssl_cert_dialog_domain">Дамен</string>
     <string name="ssl_cert_dialog_issued_to">Выдадзена для</string>

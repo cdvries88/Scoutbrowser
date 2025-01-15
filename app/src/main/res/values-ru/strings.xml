@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">Очистить поиск</string>
     <string name="url_bar_search_previous">Пред.</string>
     <string name="url_bar_search_next">След.</string>
+    <string name="url_bar_auto_complete_hint">Введите запрос или URL</string>
     <string name="menu_go_back">Назад</string>
     <string name="menu_go_forward">Вперед</string>
     <string name="menu_refresh">Обновить страницу</string>
@@ -81,6 +82,7 @@
     <string name="auth_dialog_detail">%1$s требует имя пользователя и пароль.</string>
     <string name="auth_dialog_login">Вход</string>
     <string name="shortcut_new_incognito_tab">Новая вкладка инкогнито</string>
+    <string name="suggestions_provider_history">История</string>
     <string name="suggestions_provider_none">Не использовать</string>
     <string name="search_bar_hint">Поиск на странице</string>
     <string name="ssl_cert_dialog_title">Данные сертификата</string>

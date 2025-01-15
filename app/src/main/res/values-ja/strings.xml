@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">検索を消去</string>
     <string name="url_bar_search_previous">前へ</string>
     <string name="url_bar_search_next">次へ</string>
+    <string name="url_bar_auto_complete_hint">検索または URL を入力</string>
     <string name="menu_go_back">戻る</string>
     <string name="menu_go_forward">進む</string>
     <string name="menu_refresh">ページを更新</string>
@@ -35,12 +36,16 @@
     <string name="settings_title">設定</string>
     <string name="pref_search_engine">検索エンジン</string>
     <string name="pref_start_page">ホームページ</string>
+    <string name="pref_start_page_autoload_enabled">有効</string>
+    <string name="pref_start_page_autoload_disabled">無効</string>
     <string name="pref_start_page_dialog_title">ホームページを選択</string>
     <string name="pref_start_page_dialog_message">ホームページの URL を入力</string>
     <string name="pref_start_page_dialog_reset">リセット</string>
     <string name="pref_privacy_security">プライバシーとセキュリティ</string>
     <string name="pref_looklock_title">LookLock</string>
     <string name="pref_looklock_summary">他のアプリがブラウザのコンテンツを読み取るのを防ぎます</string>
+    <string name="pref_dynamic_popup_title">ダイナミックポップアップ</string>
+    <string name="pref_dynamic_popup_summary">JavaScript でユーザー操作なしでポップアップを開くことを許可します</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">JavaScript を有効にする</string>
     <string name="pref_location_title">位置情報</string>
@@ -81,6 +86,7 @@
     <string name="auth_dialog_detail">%1$s にはユーザー名とパスワードが必要です。</string>
     <string name="auth_dialog_login">ログイン</string>
     <string name="shortcut_new_incognito_tab">新しいシークレットタブ</string>
+    <string name="suggestions_provider_history">履歴</string>
     <string name="suggestions_provider_none">なし</string>
     <string name="search_bar_hint">検索</string>
     <string name="ssl_cert_dialog_title">証明書の詳細</string>

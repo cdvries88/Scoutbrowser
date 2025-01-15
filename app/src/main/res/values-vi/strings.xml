@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">Xóa tìm kiếm</string>
     <string name="url_bar_search_previous">Trước</string>
     <string name="url_bar_search_next">Tiếp</string>
+    <string name="url_bar_auto_complete_hint">Tìm kiếm hoặc nhập URL</string>
     <string name="menu_go_back">Quay lại</string>
     <string name="menu_go_forward">Tiếp theo</string>
     <string name="menu_refresh">Làm mới trang</string>
@@ -35,12 +36,16 @@
     <string name="settings_title">Cài đặt</string>
     <string name="pref_search_engine">Công cụ tìm kiếm</string>
     <string name="pref_start_page">Trang chủ</string>
+    <string name="pref_start_page_autoload_enabled">Đã kích hoạt</string>
+    <string name="pref_start_page_autoload_disabled">Đã vô hiệu hóa</string>
     <string name="pref_start_page_dialog_title">Đặt làm trang chủ</string>
     <string name="pref_start_page_dialog_message">Nhập url trang chủ này</string>
     <string name="pref_start_page_dialog_reset">Thiết lập lại</string>
     <string name="pref_privacy_security">Riêng tư &amp; bảo mật</string>
     <string name="pref_looklock_title">LookLock</string>
     <string name="pref_looklock_summary">Ngăn chặn các ứng dụng khác đọc nội dung của Trình duyệt</string>
+    <string name="pref_dynamic_popup_title">Cửa sổ bật lên động</string>
+    <string name="pref_dynamic_popup_summary">Cho phép JavaScript mở cửa sổ bật lên mà không cần tương tác của người dùng</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">Cho phép JavaScript</string>
     <string name="pref_location_title">Vị trí</string>
@@ -81,6 +86,7 @@
     <string name="auth_dialog_detail">%1$s yêu cầu tên người dùng và mật khẩu.</string>
     <string name="auth_dialog_login">Đăng nhập</string>
     <string name="shortcut_new_incognito_tab">Tab ẩn danh mới</string>
+    <string name="suggestions_provider_history">Lịch sử</string>
     <string name="suggestions_provider_none">Không có</string>
     <string name="search_bar_hint">Tìm kiếm</string>
     <string name="ssl_cert_dialog_title">Chi tiết Chứng Chỉ SSL</string>

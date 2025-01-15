@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">Neteja la cerca</string>
     <string name="url_bar_search_previous">Anterior</string>
     <string name="url_bar_search_next">Següent</string>
+    <string name="url_bar_auto_complete_hint">Cerca o escriu una URL</string>
     <string name="menu_go_back">Torna</string>
     <string name="menu_go_forward">Avança</string>
     <string name="menu_refresh">Actualitza la pàgina</string>
@@ -35,12 +36,16 @@
     <string name="settings_title">Configuració</string>
     <string name="pref_search_engine">Motor de cerca</string>
     <string name="pref_start_page">Pàgina d\'inici</string>
+    <string name="pref_start_page_autoload_enabled">Activat</string>
+    <string name="pref_start_page_autoload_disabled">Desactivat</string>
     <string name="pref_start_page_dialog_title">Selecciona la pàgina d\'inici</string>
     <string name="pref_start_page_dialog_message">Escriu l\'URL de la pàgina d\'inic</string>
     <string name="pref_start_page_dialog_reset">Reinicia</string>
     <string name="pref_privacy_security">Privacitat i seguretat</string>
     <string name="pref_looklock_title">Bloqueja la vista</string>
     <string name="pref_looklock_summary">Evita que altres aplicacions llegeixin el contingut del navegador</string>
+    <string name="pref_dynamic_popup_title">Finestres emergents dinàmiques</string>
+    <string name="pref_dynamic_popup_summary">Permet que el JavaScript obri finestres emergents sense la interacció de l\'usuari</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">Activa JavaScript</string>
     <string name="pref_location_title">Ubicació</string>
@@ -81,6 +86,7 @@
     <string name="auth_dialog_detail">%1$s requereix un nom d\'usuari i una contrasenya.</string>
     <string name="auth_dialog_login">Inicia sessió</string>
     <string name="shortcut_new_incognito_tab">Nova pestanya d\'incògnit</string>
+    <string name="suggestions_provider_history">Historial</string>
     <string name="suggestions_provider_none">Cap</string>
     <string name="search_bar_hint">Cerca</string>
     <string name="ssl_cert_dialog_title">Detalls del certificat SSL</string>

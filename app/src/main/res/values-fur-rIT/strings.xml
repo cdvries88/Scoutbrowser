@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
@@ -81,6 +81,7 @@
     <string name="auth_dialog_detail">%1$s al domande un non utent e une password.</string>
     <string name="auth_dialog_login">Jentre</string>
     <string name="shortcut_new_incognito_tab">Gnove schede segrete</string>
+    <string name="suggestions_provider_history">Cronologjie</string>
     <string name="suggestions_provider_none">Nissun</string>
     <string name="search_bar_hint">Cîr</string>
     <string name="ssl_cert_dialog_title">Detais certificât SSL</string>
