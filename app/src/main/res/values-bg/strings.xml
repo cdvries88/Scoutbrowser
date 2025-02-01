@@ -5,6 +5,7 @@
 -->
 <resources>
     <string name="app_name">Браузър</string>
+    <string name="url_bar_auto_complete_hint">Търсете или въведете URL адрес</string>
     <string name="menu_new_tab">Нов раздел</string>
     <string name="menu_incognito">Раздел в режим „Инкогнито“</string>
     <string name="menu_fav_add">Добави към Любими</string>
@@ -25,12 +26,16 @@
     <string name="settings_title">Настройки</string>
     <string name="pref_search_engine">Търсачка</string>
     <string name="pref_start_page">Начална страница</string>
+    <string name="pref_start_page_autoload_enabled">Включено</string>
+    <string name="pref_start_page_autoload_disabled">Изключено</string>
     <string name="pref_start_page_dialog_title">Изберете начална страница</string>
     <string name="pref_start_page_dialog_message">Напишете URL адрес на началната страница</string>
     <string name="pref_start_page_dialog_reset">Начално състояние</string>
     <string name="pref_privacy_security">Поверителност и сигурност</string>
     <string name="pref_looklock_title">LookLock</string>
     <string name="pref_looklock_summary">Предотвратяване на други приложения да четат съдържание от браузъра</string>
+    <string name="pref_dynamic_popup_title">Динамични изскачащи прозорци</string>
+    <string name="pref_dynamic_popup_summary">Позволи на JavaScript да отваря изскачащи прозорци без потребителска намеса</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">Активиране на JavaScript</string>
     <string name="pref_location_title">Местоположение</string>
@@ -85,4 +90,7 @@
     <string name="ssl_cert_dialog_issued_on">Издадена на</string>
     <string name="ssl_cert_dialog_expires_on">Изтича на</string>
     <string name="ssl_cert_dialog_dismiss">Отхвърли</string>
+    <string name="protected_media_dialog_message">Позволяване на защитена медия?</string>
+    <string name="protected_media_dialog_grant">Разрешаване</string>
+    <string name="protected_media_dialog_deny">Отказване</string>
 </resources>

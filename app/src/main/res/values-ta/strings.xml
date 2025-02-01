@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">தேடலை அழிக்க</string>
     <string name="url_bar_search_previous">முந்தைய</string>
     <string name="url_bar_search_next">அடுத்த</string>
+    <string name="url_bar_auto_complete_hint">தேடுக அல்லது உரலியை உள்ளி்டுக</string>
     <string name="menu_go_back">பின் செல்க</string>
     <string name="menu_go_forward">முன் செல்க</string>
     <string name="menu_refresh">பக்கத்தைப் புதுப்பிக்க</string>
@@ -35,12 +36,16 @@
     <string name="settings_title">அமைப்புகள்</string>
     <string name="pref_search_engine">தேடற்பொறி</string>
     <string name="pref_start_page">முகப்புப் பக்கம்</string>
+    <string name="pref_start_page_autoload_enabled">இயக்கப்பட்டது</string>
+    <string name="pref_start_page_autoload_disabled">முடக்கப்பட்டது</string>
     <string name="pref_start_page_dialog_title">முகப்புப் பக்கத்தைத் தேர்க</string>
     <string name="pref_start_page_dialog_message">முகப்புப் பக்க உரலியை எழுதுக</string>
     <string name="pref_start_page_dialog_reset">மீளமைக்க</string>
     <string name="pref_privacy_security">தனியுரிமையும் பாதுகாப்பும்</string>
     <string name="pref_looklock_title">காணற்பூட்டு</string>
     <string name="pref_looklock_summary">உலாவியின் உள்ளடக்கத்தைப் படிப்பதிலிருந்து பிற செயலிகளைத் தடுக்க</string>
+    <string name="pref_dynamic_popup_title">இயக்க மேற்திறப்புகள்</string>
+    <string name="pref_dynamic_popup_summary">பயனர் தொடர்பு இல்லாமல் மேற்திறப்புகளைத் திறக்க யாவாக்கிறிட்டை அனுமதிக்க</string>
     <string name="pref_js_title">யாவாக்கிறிட்டு</string>
     <string name="pref_js_summary">யாவாக்கிறிட்டை இயக்குக</string>
     <string name="pref_location_title">இருப்பிடம்</string>
@@ -109,4 +114,7 @@
     <string name="location_dialog_allow">அனுமதிக்க</string>
     <string name="location_dialog_block">தடுக்க</string>
     <string name="location_dialog_cancel">தற்போது மறுக்க</string>
+    <string name="protected_media_dialog_message">பாதுகாக்கப்பட்ட ஊடகத்தை அனுமதிக்கவா?</string>
+    <string name="protected_media_dialog_grant">அனுமதிக்க</string>
+    <string name="protected_media_dialog_deny">மறுக்க</string>
 </resources>

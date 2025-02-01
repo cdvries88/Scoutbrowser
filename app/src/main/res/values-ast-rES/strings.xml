@@ -108,4 +108,6 @@
     <string name="location_dialog_allow">Permitir</string>
     <string name="location_dialog_block">Bloquiar</string>
     <string name="location_dialog_cancel">Negar pel momentu</string>
+    <string name="protected_media_dialog_grant">Conceder</string>
+    <string name="protected_media_dialog_deny">Negar</string>
 </resources>

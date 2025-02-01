@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">Permitir</string>
     <string name="location_dialog_block">Bloquear</string>
     <string name="location_dialog_cancel">Negar por enquanto</string>
+    <string name="protected_media_dialog_message">Permitir mídia protegida?</string>
+    <string name="protected_media_dialog_grant">Permitir</string>
+    <string name="protected_media_dialog_deny">Negar</string>
 </resources>

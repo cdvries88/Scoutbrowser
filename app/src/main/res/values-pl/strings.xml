@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">Zezwól</string>
     <string name="location_dialog_block">Blokuj</string>
     <string name="location_dialog_cancel">Na razie odmów</string>
+    <string name="protected_media_dialog_message">Zezwalać na chronione multimedia?</string>
+    <string name="protected_media_dialog_grant">Zezwól</string>
+    <string name="protected_media_dialog_deny">Odmów</string>
 </resources>

@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">Consenti</string>
     <string name="location_dialog_block">Blocca</string>
     <string name="location_dialog_cancel">Nega per ora</string>
+    <string name="protected_media_dialog_message">Consentire contenuti multimediali protetti?</string>
+    <string name="protected_media_dialog_grant">Consenti</string>
+    <string name="protected_media_dialog_deny">Nega</string>
 </resources>

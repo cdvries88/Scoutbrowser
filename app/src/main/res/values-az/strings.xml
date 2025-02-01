@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">İcazə ver</string>
     <string name="location_dialog_block">Əngəllə</string>
     <string name="location_dialog_cancel">İndilik rədd et</string>
+    <string name="protected_media_dialog_message">Qorunan mediaya icazə verilsin?</string>
+    <string name="protected_media_dialog_grant">İcazə ver</string>
+    <string name="protected_media_dialog_deny">Rədd et</string>
 </resources>

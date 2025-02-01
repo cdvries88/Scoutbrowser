@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">Dovoli</string>
     <string name="location_dialog_block">Blokiraj</string>
     <string name="location_dialog_cancel">Zavrni za zdaj</string>
+    <string name="protected_media_dialog_message">Dovoli zaščiteno predstavnost?</string>
+    <string name="protected_media_dialog_grant">Odobri</string>
+    <string name="protected_media_dialog_deny">Zavrni</string>
 </resources>

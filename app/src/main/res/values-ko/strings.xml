@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">허용</string>
     <string name="location_dialog_block">차단</string>
     <string name="location_dialog_cancel">지금은 거부</string>
+    <string name="protected_media_dialog_message">보호된 미디어를 허용하시겠습니까?</string>
+    <string name="protected_media_dialog_grant">허용</string>
+    <string name="protected_media_dialog_deny">거부</string>
 </resources>

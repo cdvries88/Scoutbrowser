@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">許可</string>
     <string name="location_dialog_block">ブロック</string>
     <string name="location_dialog_cancel">今回は拒否</string>
+    <string name="protected_media_dialog_message">保護されたメディアを許可しますか？</string>
+    <string name="protected_media_dialog_grant">許可</string>
+    <string name="protected_media_dialog_deny">拒否</string>
 </resources>

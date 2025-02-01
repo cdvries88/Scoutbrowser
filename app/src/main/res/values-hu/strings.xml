@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">Engedélyezés</string>
     <string name="location_dialog_block">Blokkolás</string>
     <string name="location_dialog_cancel">Tiltás csak most</string>
+    <string name="protected_media_dialog_message">Engedélyezi a védett médiafájlt?</string>
+    <string name="protected_media_dialog_grant">Engedélyezés</string>
+    <string name="protected_media_dialog_deny">Tiltás</string>
 </resources>

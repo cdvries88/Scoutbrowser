@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">Ceadaigh</string>
     <string name="location_dialog_block">Bloc</string>
     <string name="location_dialog_cancel">Diúltaigh faoi láthair</string>
+    <string name="protected_media_dialog_message">Ceadaigh meáin chosanta?</string>
+    <string name="protected_media_dialog_grant">Deontas</string>
+    <string name="protected_media_dialog_deny">Diúltú</string>
 </resources>

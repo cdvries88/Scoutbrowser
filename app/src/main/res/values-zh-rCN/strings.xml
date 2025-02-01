@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">允许</string>
     <string name="location_dialog_block">阻止</string>
     <string name="location_dialog_cancel">本次拒绝</string>
+    <string name="protected_media_dialog_message">是否允许受保护的媒体？</string>
+    <string name="protected_media_dialog_grant">授权</string>
+    <string name="protected_media_dialog_deny">拒绝</string>
 </resources>

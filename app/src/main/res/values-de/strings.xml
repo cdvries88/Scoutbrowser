@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">Suche löschen</string>
     <string name="url_bar_search_previous">Zurück</string>
     <string name="url_bar_search_next">Weiter</string>
+    <string name="url_bar_auto_complete_hint">Suchen oder URL eingeben</string>
     <string name="menu_go_back">Zurück</string>
     <string name="menu_go_forward">Weiter</string>
     <string name="menu_refresh">Seite neu laden</string>
@@ -35,12 +36,16 @@
     <string name="settings_title">Einstellungen</string>
     <string name="pref_search_engine">Suchmaschine</string>
     <string name="pref_start_page">Startseite</string>
+    <string name="pref_start_page_autoload_enabled">Aktiviert</string>
+    <string name="pref_start_page_autoload_disabled">Deaktiviert</string>
     <string name="pref_start_page_dialog_title">Startseite auswählen</string>
     <string name="pref_start_page_dialog_message">URL der Startseite eingeben</string>
     <string name="pref_start_page_dialog_reset">Zurücksetzen</string>
     <string name="pref_privacy_security">Datenschutz &amp; Sicherheit</string>
     <string name="pref_looklock_title">LookLock</string>
     <string name="pref_looklock_summary">Andere Apps am Auslesen des Browser-Inhalts hindern</string>
+    <string name="pref_dynamic_popup_title">Dynamische Pop-ups</string>
+    <string name="pref_dynamic_popup_summary">JavaScript das Öffnen von Pop-ups ohne Nutzerinteraktion erlauben</string>
     <string name="pref_js_title">JavaScript</string>
     <string name="pref_js_summary">JavaScript aktivieren</string>
     <string name="pref_location_title">Standort</string>
@@ -109,4 +114,7 @@
     <string name="location_dialog_allow">Erlauben</string>
     <string name="location_dialog_block">Blockieren</string>
     <string name="location_dialog_cancel">Vorerst verweigern</string>
+    <string name="protected_media_dialog_message">Geschützte Inhalte zulassen?</string>
+    <string name="protected_media_dialog_grant">Erlauben</string>
+    <string name="protected_media_dialog_deny">Verweigern</string>
 </resources>

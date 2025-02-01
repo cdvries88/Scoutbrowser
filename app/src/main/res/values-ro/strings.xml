@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">Permite</string>
     <string name="location_dialog_block">Blochează</string>
     <string name="location_dialog_cancel">Refuză deocamdată</string>
+    <string name="protected_media_dialog_message">Permiteți media protejat?</string>
+    <string name="protected_media_dialog_grant">Permite</string>
+    <string name="protected_media_dialog_deny">Refuză</string>
 </resources>

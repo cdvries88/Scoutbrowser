@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">Permet</string>
     <string name="location_dialog_block">Bloca</string>
     <string name="location_dialog_cancel">Denega de moment</string>
+    <string name="protected_media_dialog_message">Voleu permetre els mitjans protegits?</string>
+    <string name="protected_media_dialog_grant">Permet</string>
+    <string name="protected_media_dialog_deny">Denega</string>
 </resources>
