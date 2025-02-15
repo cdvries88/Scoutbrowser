@@ -14,6 +14,7 @@ android_app {
         "src/main/java/**/*.kt",
     ],
     resource_dirs: ["src/main/res"],
+    asset_dirs: ["src/main/assets"],
     manifest: "src/main/AndroidManifest.xml",
 
     product_specific: true,
