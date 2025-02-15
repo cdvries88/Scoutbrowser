@@ -114,4 +114,7 @@
     <string name="location_dialog_allow">Cho phép</string>
     <string name="location_dialog_block">Chặn</string>
     <string name="location_dialog_cancel">Từ chối bây giờ</string>
+    <string name="protected_media_dialog_message">Cho phép phương tiện được bảo vệ?</string>
+    <string name="protected_media_dialog_grant">Cấp phép</string>
+    <string name="protected_media_dialog_deny">Từ chối</string>
 </resources>

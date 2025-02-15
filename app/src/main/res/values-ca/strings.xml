@@ -22,6 +22,7 @@
     <string name="menu_history">Historial</string>
     <string name="menu_downloads">Baixades</string>
     <string name="menu_shortcut">Afegeix una drecera</string>
+    <string name="menu_background_shortcuts">Dreceres de fons</string>
     <string name="menu_settings">Configuració</string>
     <string name="menu_download">Baixa</string>
     <string name="menu_in_new_tab">Obre en una nova pestanya</string>
@@ -33,6 +34,11 @@
     <string name="download_title">Baixa el fitxer</string>
     <string name="download_message">Vols baixar %1$s?</string>
     <string name="download_positive">Baixa</string>
+    <string name="background_shortcuts_title">Dreceres de fons</string>
+    <string name="background_shortcuts_save_action">Desa</string>
+    <string name="background_shortcuts_notification_channel">Gestiona les dreceres de fons</string>
+    <string name="background_shortcuts_notification_content_single">la instància s\'està executant</string>
+    <string name="background_shortcuts_notification_content_multiple">les instàncies s\'estan executant</string>
     <string name="settings_title">Configuració</string>
     <string name="pref_search_engine">Motor de cerca</string>
     <string name="pref_start_page">Pàgina d\'inici</string>
@@ -117,4 +123,5 @@
     <string name="protected_media_dialog_message">Voleu permetre els mitjans protegits?</string>
     <string name="protected_media_dialog_grant">Permet</string>
     <string name="protected_media_dialog_deny">Denega</string>
+    <string name="media_session_destroy_action">Destrueix</string>
 </resources>

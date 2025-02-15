@@ -10,6 +10,7 @@
     <string name="url_bar_search_clear">Pastro kërkimin</string>
     <string name="url_bar_search_previous">Mbrapa</string>
     <string name="url_bar_search_next">Tjetër</string>
+    <string name="url_bar_auto_complete_hint">Kërko ose shkruaj URL-në</string>
     <string name="menu_go_back">Kthehu prapa</string>
     <string name="menu_go_forward">Shko përpara</string>
     <string name="menu_refresh">Rifresko faqen</string>
@@ -35,6 +36,8 @@
     <string name="settings_title">Cilësimet</string>
     <string name="pref_search_engine">Motori i kërkimit</string>
     <string name="pref_start_page">Kryefaqja</string>
+    <string name="pref_start_page_autoload_enabled">I aktivizuar</string>
+    <string name="pref_start_page_autoload_disabled">I çaktivizuar</string>
     <string name="pref_start_page_dialog_title">Zgjidh kryefaqen</string>
     <string name="pref_start_page_dialog_message">Shkruaj adresën e kryefaqes</string>
     <string name="pref_start_page_dialog_reset">Zeroje</string>
@@ -111,4 +114,7 @@
     <string name="location_dialog_allow">Lejo</string>
     <string name="location_dialog_block">Blloko</string>
     <string name="location_dialog_cancel">Mohojeni tani për tani</string>
+    <string name="protected_media_dialog_message">Lejo media të mbrojtur?</string>
+    <string name="protected_media_dialog_grant">Lejo</string>
+    <string name="protected_media_dialog_deny">Refuzo</string>
 </resources>

@@ -33,6 +33,7 @@
     <string name="download_title">Загрузка файла</string>
     <string name="download_message">Вы действительно хотите скачать %1$s?</string>
     <string name="download_positive">Загрузить</string>
+    <string name="background_shortcuts_save_action">Сохранить</string>
     <string name="settings_title">Настройки</string>
     <string name="pref_search_engine">Поисковая система</string>
     <string name="pref_start_page">Домашняя страница</string>
