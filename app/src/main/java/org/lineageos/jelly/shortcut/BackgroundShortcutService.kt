@@ -146,10 +146,11 @@ class BackgroundShortcutService : Service() {
 
     private fun notificationTitle() = getString(R.string.background_shortcuts_title)
 
-    private fun notificationContent() = when (shortcuts.size) {
-        1 -> getString(R.string.background_shortcuts_notification_content_single)
-        else -> getString(R.string.background_shortcuts_notification_content_multiple)
-    }
+    private fun notificationContent() = resources.getQuantityString(
+        R.plurals.background_shortcuts_notification_content,
+        shortcuts.size,
+        shortcuts.size
+    )
 
     private fun notificationIntent() = PendingIntent.getActivity(
         this,
@@ -215,7 +216,7 @@ class BackgroundShortcutService : Service() {
         .setSmallIcon(R.drawable.ic_external)
         .setContentIntent(notificationIntent())
         .setContentTitle(notificationTitle())
-        .setContentText("${shortcuts.size} ${notificationContent()}")
+        .setContentText(notificationContent())
         .apply {
             mediaSession?.let {
                 setStyle(Notification.MediaStyle().setMediaSession(it.sessionToken))
