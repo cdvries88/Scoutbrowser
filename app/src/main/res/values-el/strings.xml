@@ -32,6 +32,7 @@
     <string name="download_title">Λήψη αρχείου</string>
     <string name="download_message">Θέλετε να κάνετε λήψη του %1$s;</string>
     <string name="download_positive">Λήψη</string>
+    <string name="background_shortcuts_save_action">Aποθήκευση</string>
     <string name="settings_title">Ρυθμίσεις</string>
     <string name="pref_search_engine">Μηχανή αναζήτησης</string>
     <string name="pref_start_page">Αρχική σελίδα</string>
@@ -109,4 +110,7 @@
     <string name="location_dialog_allow">Αποδοχή</string>
     <string name="location_dialog_block">Αποκλεισμός</string>
     <string name="location_dialog_cancel">Άρνηση για την ώρα</string>
+    <string name="protected_media_dialog_grant">Αποδοχή</string>
+    <string name="protected_media_dialog_deny">Απόρριψη</string>
+    <string name="media_session_destroy_action">Διακοπή</string>
 </resources>
