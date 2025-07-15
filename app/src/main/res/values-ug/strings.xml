@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="url_bar_auto_complete_hint">ئىزدەيدۇ ياكى تور ئادرېس كىرگۈزۈلىدۇ</string>
+    <string name="menu_background_shortcuts">تەگلىك تېزلەتمىسى</string>
+    <string name="background_shortcuts_title">تەگلىك تېزلەتمىسى</string>
+    <string name="background_shortcuts_save_action">ساقلا</string>
+    <string name="background_shortcuts_notification_channel">تەگلىك تېزلەتمىسىنى باشقۇرىدۇ</string>
+    <plurals name="background_shortcuts_notification_content">
+        <item quantity="one">%1$d مىسال ئىجرا قىلىنىۋاتىدۇ</item>
+        <item quantity="other">%1$d مىسال ئىجرا قىلىنىۋاتىدۇ</item>
+    </plurals>
+    <string name="pref_start_page_autoload_enabled">قوزغىتىلغان</string>
+    <string name="pref_start_page_autoload_disabled">چەكلەنگەن</string>
+    <string name="pref_dynamic_popup_title">ھەرىكەتچان قاڭقىش كۆزنىكى</string>
+    <string name="pref_dynamic_popup_summary">JavaScript نىڭ ئىشلەتكۈچى ئارىلاشمىغان ئەھۋالدا قاڭقىش كۆزنىكى ئېچىشىغا يول قويىدۇ</string>
+    <string name="protected_media_dialog_message">قوغدالغان ۋاسىتىگە يول قويامدۇ؟</string>
+    <string name="protected_media_dialog_grant">يول قوي</string>
+    <string name="protected_media_dialog_deny">رەت قىل</string>
+    <string name="media_session_destroy_action">توختا</string>
+</resources>
