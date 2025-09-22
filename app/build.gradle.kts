@@ -23,12 +23,6 @@ android {
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
-
-        kapt {
-            arguments {
-                arg("room.schemaLocation", "$projectDir/schemas")
-            }
-        }
     }
 
     buildTypes {
@@ -60,6 +54,12 @@ android {
 
     kotlinOptions {
         jvmTarget = "1.8"
+    }
+}
+
+kapt {
+    arguments {
+        arg("room.schemaLocation", "$projectDir/schemas")
     }
 }
 
