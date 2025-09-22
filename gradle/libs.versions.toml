@@ -5,7 +5,7 @@
 
 [versions]
 agp = "8.12.3"
-kotlin = "1.9.22"
+kotlin = "1.9.23"
 annotation = "1.6.0"
 appcompat = "1.6.1"
 cardview = "1.0.0"
